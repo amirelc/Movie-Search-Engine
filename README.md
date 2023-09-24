@@ -1,2 +1,2 @@
-# Movie_recommender
+# Movie recommender
 An intelligent website for movie recommendations
